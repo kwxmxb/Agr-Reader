@@ -21,9 +21,12 @@ Android端Material3风格的极简优美的RSS阅读器
 
 支持沉浸式翻译效果
 支持文章在列表中的标题翻译，支持文章内容的沉浸式翻译，轻松阅读外文RSS文章，不再有语言障碍
+
  项目原作者:
+ 
  https://github.com/Agr-Reader/Agr-Reader
 
  下载:
+ 
  https://github.com/Agr-Reader/Agr-Reader/releases
  
